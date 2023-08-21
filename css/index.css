@@ -1,0 +1,14 @@
+.card__{
+    width: 28rem;
+    height: 18rem;
+}
+
+.card__1{
+    width: 18rem;
+    height: 18rem;
+}
+
+input{
+    outline: none !important;
+}
+
